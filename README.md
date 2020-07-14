@@ -2,7 +2,7 @@
 
 ## description 
 
-* This is the first project in web nanodegree it's about making responsive website.
+* This is the first project in web nanodegree it's about making Responsive Navbar.
 
 ## Functionality
 
